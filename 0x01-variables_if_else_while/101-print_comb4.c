@@ -22,7 +22,7 @@ int main()
 					if (((i * 100) + (j * 10) + k) < 789)
 					{
 						putchar(',');
-						putchar(' '):
+						putchar(' ');
 					}
 				}
 			}
