@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+/*int main(void)
 {
 	char ch = 'a';
 	while(ch <= 'z')
@@ -29,7 +29,7 @@ int main(void)
 	putchar('\n');
 	return 0;
 }
-
+*/
 int main(void)
 {
 	for (char ch ='a'; ch <= 'z'; ch++)
